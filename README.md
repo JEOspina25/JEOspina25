@@ -1,14 +1,16 @@
 # Hello! I'm Juan Ospina 👋
 
-I'm passionate about data science and particle physics. I love exploring new knowledge and sharing what I learn with the community.
+I'm passionate about data science and particle physics. I love exploring new knowledge and sharing what I learn with the community.No day is the same as the day before!
 
 ### 🔭 Currently working on
-- Developed a Tkinter-based Python application to segment text into buttons and assign referent and coreferent categories with unique identifiers.
 - Search for new physics by studying models of the Z' boson in particle physics from simulated data using statistical methods.
-
+- Developed **SIMuLText**, a Tkinter-based Python application for semi-automated annotation of textual categories using FreeLing XML and JSON data management.
+- Data analysis for a discourse analysis project in the context of gender-based violence.
+  
 ### 🌱 Currently learning
 - C++
 - Quantum field theory.
+- actuary
 
 ### 📫 How to reach me
 - Email: [juan.ospina25@udea.edu.co](juan.ospina25@udea.edu.co)
